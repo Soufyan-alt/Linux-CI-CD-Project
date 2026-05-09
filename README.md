@@ -1,4 +1,4 @@
-# ðŸš€ Linux CI/CD Pipeline Automation
+# ð Linux CI/CD Pipeline Automation
 
 An advanced **DevOps-integrated** automation project designed to simulate a full CI/CD lifecycle using Docker containers and Bash scripting.
 
